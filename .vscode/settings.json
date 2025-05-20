@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.windows": {
+  "PATH": "C:\\ghcup\\ghc\\9.6.7\\bin;C:\\ghcup\\bin;${env:PATH}"
+}
+
+}

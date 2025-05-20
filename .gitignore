@@ -1,0 +1,4 @@
+# Archivos generados por GHC
+*.exe
+*.o
+*.hi
