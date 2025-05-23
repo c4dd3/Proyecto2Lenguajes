@@ -4,9 +4,9 @@ version:             0.1.0.0
 build-type:          Simple
 license:             BSD-3-Clause
 license-file:        LICENSE
-author:              Tu Nombre
-maintainer:          tu.email@ejemplo.com
-synopsis:            Proyecto de ejemplo con cryptonite
+author:              Danielo-Wu
+maintainer:          danielowu1012@ejemplo.com
+synopsis:            Proyecto dos de Lenguajes
 category:            Security
 
 executable Proyecto2Lenguajes
