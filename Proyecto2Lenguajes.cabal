@@ -1,0 +1,23 @@
+cabal-version:       3.0
+name:                Proyecto2Lenguajes
+version:             0.1.0.0
+build-type:          Simple
+license:             BSD-3-Clause
+license-file:        LICENSE
+author:              Tu Nombre
+maintainer:          tu.email@ejemplo.com
+synopsis:            Proyecto de ejemplo con cryptonite
+category:            Security
+
+executable Proyecto2Lenguajes
+  hs-source-dirs: .
+  main-is: Main.hs
+  build-depends:
+    base >=4.7 && <5,
+    directory,
+    process,
+    bytestring,
+    cryptonite,
+    base64-bytestring
+  default-language: Haskell2010
+
